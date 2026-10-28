@@ -1,10 +1,16 @@
 # Fichiers binaires et exécutables
 bin/
-tests
+tests_julia
 tests_batch
 *.o
 
-# Fichiers générés temporaires
+# Dossiers temporaires générés par les tests
+t6_ppm/
+t6_png/
+t7_ppm/
+t7_png/
+
+# Fichiers générés
 *.ppm
 PPM/
 ppm/
