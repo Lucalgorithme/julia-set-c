@@ -1,0 +1,15 @@
+# Fichiers binaires et exécutables
+bin/
+tests
+tests_batch
+*.o
+
+# Fichiers générés temporaires
+*.ppm
+PPM/
+ppm/
+PNG/
+png/
+
+# Système
+.DS_Store
